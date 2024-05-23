@@ -166,6 +166,7 @@ node_modules
 .npmrc
 
 # Scratch files
+io_config.yaml
 scratch*
 /mage_data*
 *secrets*.json
